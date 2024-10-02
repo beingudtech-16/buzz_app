@@ -1,6 +1,7 @@
-# TikTok Clone
+# BUZZ app
 
-A Tiktok App- Works on Android & iOS! 
+
+A Buzz app Works on Android & iOS! 
 
 ## Features
 - Authentication with Email & Password
@@ -25,7 +26,7 @@ I have created a tutorial based on this, do check it out on my channel [Rivaan R
 
 
 ## Installation
-After cloning this repository, migrate to ```tiktok-flutter-clone``` folder. Then, follow the following steps:
+After cloning this repository, migrate to ```buzz-flutter-clone``` folder. Then, follow the following steps:
 - Create Firebase Project
 - Enable Authentication
 - Make Firestore Rules
